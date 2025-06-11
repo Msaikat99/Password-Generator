@@ -14,7 +14,7 @@ A modern, secure password generator with real-time strength analysis and custom 
 
 ## 🚀 Live Demo
 
-[Try it live here](msaikat99.github.io/Password-Generator/)
+[Try it live here] msaikat99.github.io/Password-Generator/
 
 ## 🛠️ Usage
 
@@ -38,11 +38,7 @@ Add personal elements like:
 - Dates: `1990, 2024`
 - Favorite words: `coffee, music`
 
-Example: Input "Saikat, 1999" → Output "1999@staSaikat"
-
-## 📱 Screenshots
-
-![Password Generator Screenshot](screenshot.png)
+Example: Input "Sam, 1999" → Output "1999@staSam"
 
 ## 🤝 Contributing
 
@@ -52,9 +48,6 @@ Example: Input "Saikat, 1999" → Output "1999@staSaikat"
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
