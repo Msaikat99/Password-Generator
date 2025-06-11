@@ -14,7 +14,7 @@ A modern, secure password generator with real-time strength analysis and custom 
 
 ## 🚀 Live Demo
 
-[Try it live here](https://yourusername.github.io/password-generator)
+[Try it live here](msaikat99.github.io/Password-Generator/)
 
 ## 🛠️ Usage
 
